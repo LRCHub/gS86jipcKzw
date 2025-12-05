@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Basket Case",
+  "base_artist": "Green Day",
+  "createdAt": "2025-12-05T01:59:07.333517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/01_Basket_Case_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_Basket_Case_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Basket Case (live)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/03_Basket_Case_(live)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/04_Basket_Case_Green_Day.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/05_Basket_Case_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Basket Case (Live)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/06_Basket_Case_(Live)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Basket Case (live in Milton Keynes 2005)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/07_Basket_Case_(live_in_Milton_Keynes_2005)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/08_Basket_Case_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/09_Basket_Case_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Warren Zevon",
+      "has_synced": true,
+      "path": "select/10_Basket_Case_Warren_Zevon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Dangerdoom",
+      "has_synced": true,
+      "path": "select/11_Basket_Case_Dangerdoom.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/12_Basket_Case_Green_Day.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/pl_01_Basket_Case_Green_Day.txt"
+    }
+  ]
+}
